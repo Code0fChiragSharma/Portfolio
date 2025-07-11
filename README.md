@@ -63,9 +63,9 @@ This is a personal project, but if you find issues or have suggestions, feel fre
 
 ## 📬 Contact
 
-📧 Email: [your-email@example.com](mailto:chiragsharma7394.com)  
-💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/chiragsharma1234567/))  
-🐙 GitHub: [github.com/yourusername](https://github.com/Code0fChiragSharma)
+📧 Email: [chiragsharma7394.com](mailto:chiragsharma7394.com)  
+💼 LinkedIn: [linkedin.com/in/chiragsharma1234567](https://www.linkedin.com/in/chiragsharma1234567/)
+🐙 GitHub: [github.com/Code0fChiragSharma](https://github.com/Code0fChiragSharma)
 
 ---
 
